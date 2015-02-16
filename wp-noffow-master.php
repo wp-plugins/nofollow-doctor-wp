@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WordPress No-follow Master
-Plugin URI: 
+Plugin URI: https://wordpress.org/plugins/nofollow-doctor-wp/
 Description: This plug-in detect external links automatically and makes them no-follow , also open them in new tab. Its created by <strong>OMAR FARUK</strong>.Simply enjoy.
 Author:Omar F 
 Author URI:https://twitter.com/rraju007

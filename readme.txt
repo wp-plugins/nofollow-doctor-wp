@@ -12,7 +12,8 @@ This plug-in detect external links automatically and makes them no-follow , also
 
 == Description ==
 
-This plug-in detect external links automatically and makes them no-follow , also open them in new tab.Simply enjoy
+This plug-in detect external links automatically and makes them no-follow , also open them in new tab.Simply enjoy.
+Fork on github - https://github.com/rraju007/Wordpress-Nofollow-Master
 
 == Installation ==
 
